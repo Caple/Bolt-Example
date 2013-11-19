@@ -1,0 +1,1 @@
+Example [Bolt](https://github.com/Caple/Bolt/wiki) application.
