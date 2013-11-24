@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE project>
-
-<bolt>
-    <content folder="web" url="/" />
-</bolt>
