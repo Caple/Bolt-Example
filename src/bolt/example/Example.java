@@ -5,12 +5,12 @@ import pw.caple.bolt.api.*;
 
 public class Example extends Application {
 
-	@Override
-	public void configure(BoltConfig config) {
-		File file = new File(getStartupPath(), "web");
-		config.addContent(file);
-	}
-	
+    @Override
+    public void configure(BoltConfig config) {
+        File file = new File(getStartupPath(), "web");
+        config.addContent(file);
+    }
+
     @Override
     public void onShutdown() {
 		
